@@ -14,11 +14,11 @@ sidebar:
     # Sidebar links
     email: CoryA.Watson@gmail.com
     phone: 479-979-7816
-    linkedin: alandoe
-    github: sharu725
+    linkedin: www.linkedin.com/in/cory-awatson/
+    github:
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,11 +27,11 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom:
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom:
+        level: 
 
     interests:
       - item: Climbing
