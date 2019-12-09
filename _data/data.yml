@@ -71,21 +71,14 @@ education:
       details: |
        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Entry Analyst
+      time: 2019 - Present
+      company: Los Angeles County Employees Retirement Assosiation, Pasadena
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Researched and tagged confidential retirement and payroll account information for LA County members using an internal database of microfiche.
+        Input retirement contributions and salaries into Excel to calculate a members time.
+        Completed over 1000 individual member work-objects
+        Worked with a team to convert 30 years of old member information into a current format.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
