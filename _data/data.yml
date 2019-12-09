@@ -61,43 +61,49 @@ education:
           - Bullet point
    
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Entry Specialist
+      time: 2019 - Present
+      company: Los Angeles County Employees Retirement Association, Pasadena
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+       Researched and tagged confidential retirement and payroll account information 
+       for LA County members using an internal database of microfiche.
+     Input retirement contributions and salaries into Excel to calculate a members time.
+     Completed over 1000 individual member work-objects
+     Worked with a team to convert 30 years of old member information into a modern format.
+    
+    - role: Shopify Store Creator
+      time: 2019
+      company: Watson & Friends, Los Angeles
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Own and operate an online boutique aimed at festivals items and 
+        women’s festival clothing with over 100 sales to date and profit made.
+        Complete Shopify store creation and personalization, FB and IG marketing plans, 
+        merchandise creation and research.
+
+    - role: Sound Technician
+      time: 2018 - 2019
+      company: Kings Live Music, Conway
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Setup, run, and mix audio equipment. Manage shows and events.
+        
+     - role: Rideshare Driver
+      time: 2018 - 2019
+      company: Lyft and Uber, Little Rock
+      details: |
+      Drive riders to destinations using app based rideshare and navigation.
+ Completed over 800 successful rides and deliveries.
+ 4.9 and 5.0 star rating.
+
+     - role: Resident Assistant
+      time: 2016 - 2018
+      company: University of Arkansas, Little Rock
+      details: |
+        Responded to calls and issues regarding the residents, RA of the Year 2017.
+        Created events and supported the college community.
+ On-call for 24 and 72 hours.
+ Maintained records of rooms and resident details.
+
+
 projects:
     title: Projects
     intro: >
