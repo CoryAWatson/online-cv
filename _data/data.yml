@@ -71,9 +71,9 @@ education:
       details: |
        
 experiences:
-    - role: Data Entry Analyst
-      time: 2019 - Present
-      company: Los Angeles County Employees Retirement Assosiation, Pasadena
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
         Researched and tagged confidential retirement and payroll account information for LA County members using an internal database of microfiche.
         Input retirement contributions and salaries into Excel to calculate a members time.
