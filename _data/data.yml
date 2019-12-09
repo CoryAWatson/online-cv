@@ -79,28 +79,33 @@ experiences:
         Input retirement contributions and salaries into Excel to calculate a members time.
         Completed over 1000 individual member work-objects
         Worked with a team to convert 30 years of old member information into a current format.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Shopify Store Creator
+      time: 2019
+      company: Watson & Friends
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+       Own and operate an online boutique aimed at festivals items and women’s festival 
+       clothing with over 100 sales to date and profit made.
+       Complete Shopify store creation and personalization.
+    - role: Sound Technician
+      time: 2018 - 2019
+      company: Kings Live Music
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Setup, run, and mix audio equipment. Manage shows and events.
+    - role: Rideshare Driver
+      time: 2018 - 2019
+      company: Lyft and Uber
+      details: |
+        Drive riders to destinations using app based rideshare and navigation.
+        Completed over 800 successful rides and deliveries.
+        4.9 and 5.0 star rating.
+     - role: Resident Assistant
+      time: 2016 - 2018
+      company: University of Arkansas, Little Rock
+      details: |
+        Responded to calls and issues regarding the residents, RA of the Year.
+        On-call for 24 and 72 hours.
+        Maintained records of rooms and resident details. 
+
 projects:
     title: Projects
     intro: >
